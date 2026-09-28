@@ -1,0 +1,15 @@
+# Datos descargados automáticamente por torchvision
+data/
+
+# Modelos guardados por los cuadernos
+checkpoints/
+
+# Entornos y cachés
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
